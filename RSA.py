@@ -1,6 +1,6 @@
 import math
 import random
-
+#this comment from musa 
 p = int(input("Asal değeri giriniz."))
 q = int(input("2. Asal değeri giriniz."))
 d = 3
